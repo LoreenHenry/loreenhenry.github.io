@@ -8,16 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
 # Welcome to my website.
 ## Data Visualization
 ### UT Dallas
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/LoreenHenry) and ![Image](![image](https://user-images.githubusercontent.com/89473160/138900318-ff30a16c-7c4a-44a6-ab64-a60cf541c2eb.png))
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
