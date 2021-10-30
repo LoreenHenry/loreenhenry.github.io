@@ -5,7 +5,7 @@
 ### UT Dallas
 
 
-###Tree Assignment
+### Tree Assignment
 
 Description of assignment 
 ```
