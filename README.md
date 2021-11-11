@@ -2,7 +2,7 @@
 
 # Welcome to my website.
 ## Data Visualization
-### <UT Dallas www.utdallas.edu>
+### UT Dallas <www.utdallas.edu>
 
 
 ### Tree Assignment
