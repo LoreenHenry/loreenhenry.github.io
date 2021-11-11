@@ -9,7 +9,7 @@
 
 ### Tree Assignment
 
-Description of assignment 
+An R plot that looks like a tree and has brownish color: 
 ```
 +     geom_segment(aes(x = x1, y = y1, xend = x2, yend = y2),
 +                  lineend = "round",
