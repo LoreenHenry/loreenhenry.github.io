@@ -1,9 +1,11 @@
 ## Loreen Henry
 
 # Welcome to my website.
+```
 ##  ![Data Visualization] (https://hbr.org/2016/06/visualizations-that-really-work "an article from hbr.org")
+```
 ### UT Dallas <www.utdallas.edu>
-
+```
 
 ### Tree Assignment
 
