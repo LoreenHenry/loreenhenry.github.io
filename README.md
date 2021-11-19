@@ -29,3 +29,23 @@ An R plot that looks like a tree and has brownish color:
 
 
 ![Shape, Color, and Line in Data Visualization](https://github.com/LoreenHenry/Spring.git)
+geom_segment(aes(x = x1, y = y1, xend = x2, yend = y2),
+
+             lineend = "round",
+
+             data=na.omit(points)) +
+             
+coord_fixed (ratio = 1) +
+
+theme(legend.position="none",
+
+      panel.background = element_rect(fill="white"),
+
+      panel.grid=element_blank(),
+
+      axis.ticks=element_blank(),
+
+      axis.title=element_blank(),
+
+      axis.text=element_blank())
+
