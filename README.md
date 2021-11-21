@@ -28,5 +28,3 @@ An R plot that looks like a tree and has brownish color:
 ![An R plot that looks like a tree, brownish color](https://loreenhenry.github.io/Tree1.png "a tree")
 
 
-![Shape, Color, and Line in Data Visualization](https://github.com/LoreenHenry/Spring.git)
-
